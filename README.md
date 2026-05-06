@@ -1,6 +1,6 @@
 # Technical Appendix
 
-**Title:** Top-$k$ Sparsification for Enhancing Privacy-Utility Tradeoff in AirComp Federated Learning
+**Title:** Top-k Sparsification for Enhancing Privacy-Utility Tradeoff in AirComp Federated Learning
 
 ## Overview
 This repository contains the supplementary mathematical proofs and detailed convergence analysis for our submitted IEEE conference paper. Due to strict page limits in the main text, we provide the complete theoretical framework here.
