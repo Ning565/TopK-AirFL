@@ -9,10 +9,10 @@ The attached PDF document presents a rigorous, self-contained mathematical analy
 
 ## Core Theoretical Contributions Included
 
-* **Error Feedback Contraction:** A tight bound on the error memory sequence, proving that the accumulation of unsent Top-$k$ residuals is strictly controlled by the local gradient updates (Lemma 1 & 2).
+* **Error Feedback Contraction:** A tight bound on the error memory sequence, proving that the accumulation of unsent Top-$k$ residuals is strictly controlled by the local gradient updates.
 * **Virtual Model Separation:** The exact algebraic construction of the virtual global model sequence, smoothly decoupling the sparsification error from the physical transmission noise.
-* **Bounded Local Divergence:** The derivation of the physical local model drift under data heterogeneity and stochastic gradient variance (Lemma 3).
-* **Main Convergence Bound (Theorem 2):** The complete unrolling of the recursive descent inequality, establishing the final $\mathcal{O}(1/T)$ convergence rate while explicitly capturing the interplay between the privacy-induced power scaling, Top-$k$ sparsification ratio, and channel noise.
+* **Bounded Local Divergence:** The derivation of the physical local model drift under data heterogeneity and stochastic gradient variance.
+* **Main Convergence Bound (Theorem 2):** The complete unrolling of the recursive descent inequality, establishing the final convergence rate while explicitly capturing the interplay between the privacy-induced power scaling, Top-$k$ sparsification ratio, and channel noise.
 
 ## File Structure
 * `proof of Theorem 2.pdf`: The complete Technical Appendix document.
